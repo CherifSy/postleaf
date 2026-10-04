@@ -77,7 +77,7 @@
     "moment": "^2.17.1",
     "moment-timezone": "^0.5.11",
     "multer": "^1.2.0",
-    "nodemailer": "^2.7.0",
+    "nodemailer": "^10.0.9",
     "recursive-readdir": "^2.1.1",
     "sanitize-filename": "^1.6.1",
     "sequelize": "^3.29.0",
